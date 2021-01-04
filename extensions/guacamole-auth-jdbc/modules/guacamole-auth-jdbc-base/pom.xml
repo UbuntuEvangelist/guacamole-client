@@ -76,7 +76,7 @@
         <dependency>
             <groupId>org.mybatis</groupId>
             <artifactId>mybatis-guice</artifactId>
-            <version>3.6</version>
+            <version>3.12</version>
         </dependency>
 
         <!-- Guice -->
